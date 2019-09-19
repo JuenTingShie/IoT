@@ -7,7 +7,7 @@
 #define DEVICE_NAME "LINE Things Trial ESP32"
 
 // User service UUID: Change this to your generated service UUID
-#define USER_SERVICE_UUID "ac0cafcb-8172-46a8-8eac-e33f45ad1406"
+#define USER_SERVICE_UUID "96b2e82e-7c8b-4824-b3fa-a6317336e78b"
 // User service characteristics
 #define WRITE_CHARACTERISTIC_UUID "E9062E71-9E62-4BC6-B0D3-35CDCD9B027B"
 #define NOTIFY_CHARACTERISTIC_UUID "62FBD229-6EDD-4D1A-B554-5C4E1BB29169"
